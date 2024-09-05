@@ -1,3 +1,3 @@
-# calculator_stacked
+# Calculator (Stacked framework testing)
 
-A new Flutter project.
+A simple calculator built with Flutter and the Stacked framework.
